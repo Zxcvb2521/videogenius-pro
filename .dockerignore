@@ -1,0 +1,4 @@
+# Игнорируем отсутствующие файлы YouTube API
+client_secret.json
+token.json
+
