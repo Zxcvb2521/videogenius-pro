@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Secrets
+.env
+client_secret.json
+token.json
+
+# Generated media
+videos/
+*.mp4
+*.mp3
+*.srt
+
+# Local
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
