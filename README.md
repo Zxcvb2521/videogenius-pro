@@ -6,7 +6,7 @@
 ✅ Возможностью выбирать модели, голоса, стили
 
 ---
-## 🚀 VideoGenius PRO — расширенная архитектура
+## 🚀 VideoGenius PRO 
 
 ---
 ## 📁 Структура проекта
@@ -341,4 +341,5 @@ Auto-deploy: Yes
 
 Шаг 4: Деплой
 Нажми “Create Web Service” → жди 3–5 минут → получишь URL вида:
+
 https://videogenius-pro.onrender.com
