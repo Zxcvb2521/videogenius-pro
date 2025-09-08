@@ -1,4 +1,4 @@
-**Расширеная версию VideoGenius AI Agent** с:
+**Расширеная версия VideoGenius AI Agent** с:
 
 ✅ Страницей настроек API  
 ✅ Поддержкой нескольких поставщиков (OpenAI, Anthropic, Mistral, ElevenLabs, PlayHT, Pexels, Unsplash, DALL·E и др.)  
@@ -343,3 +343,4 @@ Auto-deploy: Yes
 Нажми “Create Web Service” → жди 3–5 минут → получишь URL вида:
 
 https://videogenius-pro.onrender.com
+
