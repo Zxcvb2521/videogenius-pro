@@ -1,0 +1,5 @@
+site_name: VideoGenius PRO API
+theme: material
+nav:
+  - Главная: index.md
+  - API: api.md
